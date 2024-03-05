@@ -1,5 +1,4 @@
-#  VBA Challenge
-#   Andrew Mack | March 2024
+#  VBA Challenge: Andrew Mack (March 2024)
 
 ## Contents of Repo
   - VBA script file
